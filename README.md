@@ -47,8 +47,4 @@ Across these boxes, some key techniques and vulnerabilities covered include:
 - **Privilege Escalation (Windows):** Token impersonation (`SeImpersonate`, `SeRestore`), unquoted service paths, unencrypted `.ini`/`.xml` configurations, LAPS password extraction.
 - **Active Directory:** Kerberos ticket manipulation, SharpGPOAbuse, offline NTDS.dit extraction.
 
----
 
-<p align="center">
-  <i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."</i><br>— Eugene H. Spafford
-</p>
