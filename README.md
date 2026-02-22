@@ -9,8 +9,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#contents">Contents</a> •
-  <a href="#highlights">Highlights</a> •
-  <a href="#disclaimer">Disclaimer</a>
+  <a href="#highlights">Highlights</a>
 </p>
 
 ---
@@ -47,12 +46,6 @@ Across these boxes, some key techniques and vulnerabilities covered include:
 - **Privilege Escalation (Linux):** SUID/SGID binaries, `sudo` misconfigurations (tar wildcards), writable `/etc/passwd`.
 - **Privilege Escalation (Windows):** Token impersonation (`SeImpersonate`, `SeRestore`), unquoted service paths, unencrypted `.ini`/`.xml` configurations, LAPS password extraction.
 - **Active Directory:** Kerberos ticket manipulation, SharpGPOAbuse, offline NTDS.dit extraction.
-
----
-
-## ⚠️ Disclaimer
-
-All information and writeups in this repository are for **educational purposes only**. The techniques demonstrated here should only be used on systems you own or have explicit, documented permission to test (such as the OffSec Proving Grounds environment). Do not use these techniques for malicious purposes.
 
 ---
 
